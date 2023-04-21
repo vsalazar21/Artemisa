@@ -425,6 +425,14 @@ input[type="submit"]:hover {
         padding: 10px 20px;
         transition: .4s;
     }
+    .Nosotros{
+        font-size: 18px;
+        transition: .4s;
+    }
+    .Nosotros p{
+        font-size: 12px;
+        transition: .4s;
+    }
 }
 
 @media(max-width:750px){
